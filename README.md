@@ -1,5 +1,7 @@
 # NB Desktop 常见问题解答
 
+> 如果您的问题仍未解决，请加QQ群：499612631
+
 * 启动 *NB Desktop* 未响应，或者图片视频没有沉入桌面下方。
   1. 首先确认是否开启了 Aero 主题。Win10自带，Win7需要选定 Aero 主题。设置方法请[点击此处](https://jingyan.baidu.com/article/454316ab3a0bd1f7a6c03a46.html)。
   2. 需要将显示效果调整为最佳外观或者让windows自行选择，不能选择最佳新性能，设置方法请[Win10 点击此处](https://jingyan.baidu.com/article/b907e62785228746e7891c8a.html),[Win7 点击此处](https://jingyan.baidu.com/article/ca2d939dc8a890eb6c31ced2.html)。
